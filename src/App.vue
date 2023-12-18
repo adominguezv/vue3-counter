@@ -20,7 +20,7 @@ export default {
 <template>
     <div class="container">
         <img src="./assets/logo.png" alt="logo vue" width="125" height="125">
-        <h1>CRM Vue 3</h1>
+        <h1>Hola CRM Vue 3</h1>
         <hr />
 
         <small>
